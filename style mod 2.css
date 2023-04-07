@@ -16,7 +16,7 @@
   h1 {
     margin-bottom: 15px;
     text-align: center;
-    color: #ff4532;
+    color: #ffea32;
     font-size: 50px;
   }
   
@@ -30,7 +30,7 @@
   .content-name{
     overflow: none;
     text-align: center;
-    border: 4px solid black;
+    border: 4px solid rgba(255, 0, 0, 0.208);
     width: 100px;
     height: 40px;
     padding: 5px;
@@ -42,11 +42,11 @@
   }
   
   .content{
-    border: 5px solid black;
+    border: 5px solid rgb(255, 0, 0);
     width: 90%;
     height: auto;
     margin: 2.5%;
-    color: black
+    color: rgb(83, 177, 86)
     font-size: 25px;
     padding: 2%;
     padding-top: 55px;
